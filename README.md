@@ -1,19 +1,17 @@
 # Bloque 1 —— Presentación personal
-
 ## ¡Hola! Soy Matías Maldonado Tordecilla, Tech Recruiter en Buk 👋
 
 Me encargo de conectar talento excepcional con los distintos equipos de ingeniería en Buk. Busco profesionales que vayan más allá de las líneas de código, que tengan alta autonomía, *ownership* y que entiendan el verdadero impacto de lo que construyen día a día. 
 
-Me considero una persona cercana y sumamente curiosa: me apasiona entender cómo desarrollan sus soluciones, qué desafíos enfrentan y cuáles son los *trade-offs* reales dentro de sus procesos de ingeniería. ¡Aquí no hacemos un feature o un ticket solo porque sí, sino por el valor y el propósito que aporta al producto!
+Me apasiona entender cómo desarrollan sus soluciones, qué desafíos enfrentan y cuáles son los *trade-offs* reales dentro de sus procesos. Aquí no hacemos un feature o un ticket solo porque sí, sino por el valor y el propósito que aporta al producto.
 
 ---
 
-# Bloque 2 —— Stack tecnológico
+# Stack tecnológico
 
 ## Ecosistemas y Tecnologías que sigo de cerca:
 
-* **Backend:** Ruby on Rails, PHP (Symfony), Python
-* **Frontend & Mobile:** TypeScript, Node.js, React, React Native
+* **Ruby on Rails, PHP (Symfony), Python,TypeScript, Node.js, React, React Native
 * **Infraestructura:** Cloud Native, AWS, Terraform, Kubernetes
 * **Cultura técnica:** Ownership, Arquitectura orientada a propósito, Resolución de Trade-offs.
 
