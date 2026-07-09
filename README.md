@@ -1,4 +1,4 @@
-# Bloque 1 —— Presentación personal
+# Presentación personal
 ## ¡Hola! Soy Matías Maldonado Tordecilla, Tech Recruiter en Buk 👋
 
 Me encargo de conectar talento excepcional con los distintos equipos de ingeniería en Buk. Busco profesionales que vayan más allá de las líneas de código, que tengan alta autonomía, *ownership* y que entiendan el verdadero impacto de lo que construyen día a día. 
@@ -17,7 +17,7 @@ Me apasiona entender cómo desarrollan sus soluciones, qué desafíos enfrentan 
 
 ---
 
-# Bloque 3 —— Contacto directo
+# Contacto directo
 
 ## Hablemos sin rodeos (¡Feliz de conversar, aprender y compartir conocimiento!):
 
