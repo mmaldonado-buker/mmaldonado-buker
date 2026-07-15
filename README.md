@@ -11,7 +11,7 @@ Me apasiona entender cómo desarrollan sus soluciones, qué desafíos enfrentan 
 
 ## Ecosistemas y Tecnologías que sigo de cerca:
 
-* **Ruby on Rails, PHP (Symfony), Python,TypeScript, Node.js, React, React Native
+* Ruby on Rails, PHP (Symfony), Python,TypeScript, Node.js, React, React Native
 * **Infraestructura:** Cloud Native, AWS, Terraform, Kubernetes
 * **Cultura técnica:** Ownership, Arquitectura orientada a propósito, Resolución de Trade-offs.
 
