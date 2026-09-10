@@ -23,3 +23,8 @@ Me apasiona entender cómo desarrollan sus soluciones, qué desafíos enfrentan 
 
 * 💼 [Mi perfil de LinkedIn](https://www.linkedin.com/in/matias-maldonado-tordecilla-138497333)
 * ✉️ Correo directo: [mmaldonado@buk.cl](mailto:mmaldonado@buk.cl)
+
+## Te presento Ingeniería en Buk, en tres documentos
+📍 [01 · Presencia](https://github.com/mmaldonado-buker/01-presencia) — quiénes somos y cómo trabajamos
+🧱 [02 · Evidencia](https://github.com/mmaldonado-buker/02-evidencia) — arquitectura, escala y prácticas reales
+💻 [03 · Conversión](https://github.com/mmaldonado-buker/03-conversion) — blog, open source y carreras
